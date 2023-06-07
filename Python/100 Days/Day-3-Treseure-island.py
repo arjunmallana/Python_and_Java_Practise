@@ -84,8 +84,8 @@ if(size=='L'):
         bill += 3
         print(bill)
      else:
-        print(bill)
-        if(extra_cheese=='Y'):
-            bill+=1
+        bill+=3
+if extra_cheese == 'Y':
+    bill+=1
         else:
             print(bill)
