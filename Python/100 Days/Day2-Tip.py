@@ -71,7 +71,8 @@ print(8//3)
 # months_remaning = year_remain * 12 
 
 
-# print(f"You have {days_remaning} days, {weeks_remaing} weeks, and {months_remaning} months left.")
+# print(f"You have {days_remaning} days, {weeks_remaing} weeks, and {months_
+# remaning} months left.")
 
 
 # Tip calculator
@@ -80,7 +81,8 @@ print(8//3)
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
 #Format the result to 2 decimal places = 33.60
 
-#Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
+#Tip: There are 2 ways to round a number. You might have to do some Googling 
+# to solve this.💪
 
 #Write your code below this line 👇
 ###1###
@@ -101,7 +103,8 @@ print(8//3)
 # total_tip_amount = bill*(tip_percent)
 # total_bill_amount = bill + total_tip_amount
 # bill_per_person = total_bill_amount/ppl
-# final_amount=round(bill_per_person,2)  #output .0 we get it is one decimal place not 
+# final_amount=round(bill_per_person,2)  #output .0 we get it is one decimal 
+# place not 
 # two due to a format issue to tackle that we have next function
 # final_amount="{.2f}".format(bill_per_person) #output .00 
 # print(f"Each person should pay $ {final_amount}")
